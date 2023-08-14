@@ -1,2 +1,3 @@
-# Risk-Return-Analysis
-Exploring Risk-Return Relationship: Analyzing three stocks (US and Germany) to determine if there is a connection between risk and return.
+# Risk-Return Relationship Analysis
+
+Researching Risk-Return Connection: Investigating potential links between risk and return by analyzing three stocks (US and Germany). This repository includes a Python code file and a PDF of the coursework. Please note that the coursework is available in Lithuanian.
